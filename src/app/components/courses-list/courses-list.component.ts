@@ -6,7 +6,7 @@ import { map } from 'rxjs/operators';
 
 import gql from 'graphql-tag';
 
-import { Course, Query } from '../types';
+import { Course, Query } from '../../types';
 
 @Component({
   selector: 'app-courses-list',
